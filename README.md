@@ -1,4 +1,4 @@
-# Урок 2. Тестирование API, CI [![Build status](https://ci.appveyor.com/api/projects/status/l5csuk5k8b5k6997?svg=true)](https://ci.appveyor.com/project/kuroifreya/l2-tryci)
+# Урок 2. Тестирование API, CI [![Build status](https://ci.appveyor.com/api/projects/status/3y4oq1emggisqqpq?svg=true)](https://ci.appveyor.com/project/kuroifreya/l2-tryci)
 
 ### Насторойка CI
 - клонировать проект с лекции из репо Нетологии
